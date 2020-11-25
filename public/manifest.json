@@ -1,8 +1,8 @@
 {
-  "name": "google-clone",
-  "short_name": "google-search",
-  "theme_color": "#40aadf",
-  "background_color": "#e7a246",
+  "name": "github-jobs",
+  "short_name": "github-jobs",
+  "theme_color": "black",
+  "background_color": "black",
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
