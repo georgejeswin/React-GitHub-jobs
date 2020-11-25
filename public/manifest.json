@@ -1,0 +1,21 @@
+{
+  "name": "google-clone",
+  "short_name": "google-search",
+  "theme_color": "#40aadf",
+  "background_color": "#e7a246",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "image/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "image/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

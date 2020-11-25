@@ -1,0 +1,8 @@
+.app__logo {
+  display: flex;
+  align-items: center;
+}
+.app__spinner {
+  justify-content: center;
+  align-items: center;
+}
